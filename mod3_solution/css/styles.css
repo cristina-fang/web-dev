@@ -1,0 +1,53 @@
+#header-nav {
+  /*background-color: #a7a0a0;*/
+  border-radius: 0;
+  border: 0;
+}
+
+.navbar-header .navbar-brand {
+	margin-top: -10px
+}
+
+.navbar-header .navbar-brand h1 {
+	margin: 0 
+}
+
+#nav-list {
+	margin-top:0;
+	margin-bottom: 0;
+}
+
+#nav-list a {
+  font-size: 1.5em;
+}
+
+
+#menu-item-chicken {
+	background-color: cyan;
+}
+
+#menu-item-beef {
+	background-color: blue;
+}
+
+#menu-item-sushi {
+	background-color: yellow;
+}
+
+
+
+/*main content goes here*/
+
+#main-content h2 {
+	margin-bottom: 30px;
+}
+
+
+#main-content .row div {
+	background-color: grey;
+}
+
+
+#main-content .row div h3 {
+	margin-top: 10px;
+}
